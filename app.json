@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "saksham78_revamp",
-    "slug": "saksham78_revamp",
+    "name": "ISS-tracker",
+    "slug": "ISS-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
